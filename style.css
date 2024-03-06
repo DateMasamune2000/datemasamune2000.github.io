@@ -1,0 +1,14 @@
+* {
+	background-color: #282828;
+	color: #ebdbb2;
+	font-family: serif;
+}
+
+.data-container {
+	margin: auto;
+	width: 70%;
+}
+
+h1 {
+	text-align: center;
+}
